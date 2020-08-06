@@ -26,3 +26,4 @@ def all_phrases
   toadstool
   link
 end
+binding.pry
