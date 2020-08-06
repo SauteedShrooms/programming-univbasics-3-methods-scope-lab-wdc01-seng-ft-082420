@@ -22,9 +22,6 @@ end
 
 
 def all_phrases
-  puts mario
-  puts toadstool
-  puts link
   mario
   toadstool
   link
